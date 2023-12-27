@@ -1,0 +1,4 @@
+Updates and bug fixes will be listed here:
+
+03.09.2023 - Released V1.0 plans
+27.12.2023 - Added thrust tube files and wiring diagram
